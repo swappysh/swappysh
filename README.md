@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnil Sharma</h1>
-<h3 align="center">Pursuing MSCS at @NYU. An experienced Backend Developer interested in creating a conscious healthy impact on the world through his skill sets. Always open for a new experience.</h3>
+<h3 align="center">Pursuing MSCS at @NYU. An experienced Backend Developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
