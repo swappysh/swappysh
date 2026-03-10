@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Swapnil Sharma</h1>
-<h3 align="center">Pursuing MSCS at @NYU. An experienced Backend Developer.</h3>
+### Swapnil Sharma
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mradul_swapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mradul_swapnil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swapsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapsharma" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/swappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="swappy" height="30" width="40" /></a>
-<a href="https://instagram.com/swappy_doody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swappy_doody" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/swappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="swappy" height="30" width="40" /></a>
-</p>
+AI/ML engineer focused on production LLM systems, multi-agent architectures, and evaluation infrastructure.
+
+Currently at **Aleph** building an agentic FP&A assistant — agent capabilities, LLM-as-a-judge evals, and production reliability on Google ADK.
+
+Previously at **HippocraticAI** as a founding team member — co-built the Polaris multi-agent constellation for safety-critical patient voice AI, scaled to 1M+ calls/week, led LLM fine-tuning (70B–405B, QLoRA).
+
+Building on the side: [lekh.space](https://lekh.space) — private encrypted writing vault; an MBTI-aware voice journaling app (LiveKit, Gemini); and Beacon, an emoji-only messenger.
+
+[Website](https://swappysh.github.io) · [LinkedIn](https://linkedin.com/in/swapsharma) · [Twitter](https://twitter.com/mradul_swapnil)
